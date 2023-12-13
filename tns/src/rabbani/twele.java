@@ -1,6 +1,6 @@
 package rabbani;
 
-public class twele {
+public class twelve {
 
 	public static void main(String[] args){
 
